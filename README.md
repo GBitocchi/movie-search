@@ -57,17 +57,6 @@ Once the application is running, visit:
 
 Swagger UI: http://localhost:8000/docs
 
-## Project Structure
-
-movie-search/
-├── app/                   # Application package
-│   ├── api/               # API routes
-│   ├── services/          # Service layer
-│   ├── config.py          # Configuration
-│   ├── models.py          # Data models
-│   └── main.py            # Application entry point
-├── tests/                 # Test package
-
 ## Running Tests
 
 	### Using Docker
