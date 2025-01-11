@@ -57,6 +57,8 @@ Once the application is running, visit:
 
 Swagger UI: http://localhost:8000/docs
 
+<img width="1728" alt="Screenshot 2025-01-11 at 04 18 57" src="https://github.com/user-attachments/assets/ec588a3a-9f35-4edd-b8c9-66013660c71f" />
+
 ## Running Tests
 
 	### Using Docker
