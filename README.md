@@ -1,6 +1,10 @@
-# Movie Search API
+# Movie Search API - Marsie
 
-A FastAPI application that provides REST endpoints for indexing and searching movies using Elasticsearch.
+For a technical interview at Marsie, we are creating a FastAPI application that provides REST endpoints for indexing and searching movies using Elasticsearch.
+
+## Interviewee
+- Name: Gustavo Ayrton Bitocchi
+- Email: gustavoabitocchi@gmail.com
 
 ## Features
 - Index movies from external API
